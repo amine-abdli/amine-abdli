@@ -12,7 +12,7 @@
 <a href="mailto:amine06abdli@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/mohaned-amine-abdli">
+<a href="[https://linkedin.com/in/mohaned-amine-abdli](https://www.linkedin.com/in/mohaned-amine-abdli-57950a334/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=amine-abdli&label=Visites&color=6366f1&style=for-the-badge" alt="visitors"/>
