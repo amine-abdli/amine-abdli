@@ -29,9 +29,9 @@
 const amine = {
   formation : "Web Full Stack @ CMC Béni Mellal",
   année     : "2ème année (2024–2026)",
-  objectif  : "Stage développement web — Avril 2026",
+  objectif  : "Stage développement web ",
   stack     : ["React", "Laravel", "MySQL", "Git"],
-  projet    : "Artisan Pro Platform ",
+  projet    : "Artisan Pro Platform ...",
   langues   : ["Arabe 🇲🇦", "Français 🇫🇷", "Anglais 🇬🇧"],
   fun_fact  : "Je code ET je photographie ",
 };
